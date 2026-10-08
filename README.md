@@ -35,8 +35,8 @@ Requiere Google Chrome instalado (Selenium descarga el driver automáticamente).
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/pre-entrega-automation-testing-<nombre-apellido>.git
-cd pre-entrega-automation-testing-<nombre-apellido>
+git clone https://github.com/estefania-pose/pre-entrega-automation-testing-Estefania-Pose.git
+cd pre-entrega-automation-testing-<Estefania-Pose>
 
 # 2. (Opcional) Crear entorno virtual
 python -m venv venv
